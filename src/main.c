@@ -38,6 +38,5 @@ int main(void) {
             printf("Proposez un nombre plus haut : \n");
         }
     }
-
     return 0;
 }
